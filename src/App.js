@@ -3,8 +3,11 @@ import React from "react";
 
 
 function App() {
-  return (
-   <>
+    const stack = ("Full stack")
+    alert ("Fuck you")
+      console.log stack
+    return (
+      <>
 
 
 
