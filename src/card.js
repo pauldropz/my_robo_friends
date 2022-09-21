@@ -1,11 +1,11 @@
 import React from "react"
 
 
-const card = () => {
+const Card = () => {
     return (
             <div>
 
-                    <img src="" />
+                    <img src="" alt="Kotal Khan" />
 
             <div>
                 <h1>Kotal Khan</h1>
@@ -17,3 +17,4 @@ const card = () => {
 
     )
     }
+export default card;
