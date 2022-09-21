@@ -1,7 +1,6 @@
 import React from "react";
 
 
-
 function App() {
 
     return (
@@ -10,6 +9,7 @@ function App() {
 
 
                 <h1>ROBOFRIENDS <h1/>
+                <card/>
                 </h1>
 
 
