@@ -9,7 +9,7 @@ function App() {
 
 
 
-                <h1>ROBOFRIENDS 
+                <h1>ROBOFRIENDS <h1/>
                 </h1>
 
 
