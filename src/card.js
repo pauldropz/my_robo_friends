@@ -9,6 +9,7 @@ const card = () => {
 
             <div>
                 <h1>Kotal Khan</h1>
+                <p>KotalKhan@gmail.com</p>
             </div>
 
             </div>
