@@ -1,19 +1,17 @@
 import React from "react"
-// import images from "./images/Khan" 
-
+import khan from "./assets/images/khan.jpg"
 
 const Card = () => {
     return (
-            <div>
+        <div> 
 
-                    {/* <img src="./images/khan.jpg" alt="kotal" /> */}
-
+            <img src= {khan} alt="Emperor"/>
             <div>
                 <h1>Kotal Khan</h1>
                 <p>KotalKhan@gmail.com</p>
             </div>
 
-            </div>
+        </div>
 
 
     )
