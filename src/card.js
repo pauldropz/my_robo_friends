@@ -1,11 +1,12 @@
 import React from "react"
+// import images from "./images/Khan" 
 
 
 const Card = () => {
     return (
             <div>
 
-                    <img src="" alt="Kotal Khan" />
+                    {/* <img src="./images/khan.jpg" alt="kotal" /> */}
 
             <div>
                 <h1>Kotal Khan</h1>
@@ -17,4 +18,4 @@ const Card = () => {
 
     )
     }
-export default card;
+export default Card;
