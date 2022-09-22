@@ -1,13 +1,13 @@
 import React from "react";
-import Card from "./Card.css";
-import khan from "./assets/images/khan.jpg";
+import "./Card.css";
+import robot from "./assets/images/robot face1.jpg";
 
 const Card = () => {
     return (
         <div className="khan"> 
 
-            <img src= {khan} alt="Emperor"/>
-            <div>
+            <img src= {robot} width="250rem" alt="Emperor"/>
+            <div className="emperor">
                 <h1>Kotal Khan</h1>
                 <p>KotalKhan@gmail.com</p>
             </div>
