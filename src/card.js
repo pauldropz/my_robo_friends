@@ -1,9 +1,10 @@
-import React from "react"
-import khan from "./assets/images/khan.jpg"
+import React from "react";
+import Card from "./Card.css";
+import khan from "./assets/images/khan.jpg";
 
 const Card = () => {
     return (
-        <div> 
+        <div className="khan"> 
 
             <img src= {khan} alt="Emperor"/>
             <div>
