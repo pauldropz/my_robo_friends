@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import Card from './Card';
+import CardList from "./CardList"
 import reportWebVitals from './reportWebVitals';
 import { robots } from './robots';
 
