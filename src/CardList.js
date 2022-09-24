@@ -4,11 +4,10 @@ import Card from "./card";
 const CardList = () => {
         return (
 
-            <>
-                
+            <div>
                 
             
-            </>
+            </div>
 
 
 
