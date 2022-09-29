@@ -5,8 +5,8 @@ const CardList = () => {
         return (
 
             <div>
-                
-            
+                        <p>{ Card }</p>
+
             </div>
 
 
