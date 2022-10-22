@@ -2,7 +2,7 @@ import React from "react";
 import "./Card.css";
 import robot from "./assets/images/robot face1.jpg";
 
-const Card = ({name, email, username, id} ) => {
+const Card = ({name, email, username} ) => {
     return (
         <div className="khan"> 
 
