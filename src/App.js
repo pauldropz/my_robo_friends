@@ -6,9 +6,11 @@ import CardList from "./CardList";
 const App = () => {
     return (
             <>
+            <div>
 
                     {CardList}
 
+                    </div>
             </>
 
 
