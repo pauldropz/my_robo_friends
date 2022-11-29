@@ -8,7 +8,7 @@ const App = () => {
             <>
             <div>
 
-                    {CardList}
+         
 
                     </div>
             </>
