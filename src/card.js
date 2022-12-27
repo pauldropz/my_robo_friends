@@ -10,7 +10,7 @@ const Card = ({name, email, username} ) => {
             <div className="emperor">
                 <h1>{name}</h1>
                 <h1>{username}</h1>
-                <h1>{email}</h1>
+               
     
 
 
